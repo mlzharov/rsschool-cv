@@ -13,7 +13,7 @@ When I found site CodeWars, I was struck by the abundance of unfamiliar language
 ## Currently studying languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-###
+
 After reading the name of the Kotlin language, it immediately hit me. 
 Nostalgic memories of youth about three years in a pea jacket. Kotlin and Kronstadt are inseparable.
 
