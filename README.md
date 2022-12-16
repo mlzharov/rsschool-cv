@@ -1,2 +1,2 @@
-Test file for working with RS School.
-File wil be added and modified
+    https://mlzharov.github.io/rsschool-cv/cv
+    https://mlzharov.github.io/rsschool-cv/
