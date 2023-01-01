@@ -1,4 +1,8 @@
 # Task Plants from RS School 
+
+## Адаптивная Pixel Perfect верстка 
+[макет из Figma: Plants](https://www.figma.com/file/ntVt8IwlwzfVFMBuVVAze8/Plants?node-id=0%3A1&t=Pr55BfwanuOYrYxn-0)
+
 ## Требования к структуре макета:
 
 ### Макет состоит из трёх основных блоков: <header>, <main>, <footer>
