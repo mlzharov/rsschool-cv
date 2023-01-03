@@ -3,6 +3,9 @@
 ## Адаптивная Pixel Perfect верстка 
 [макет из Figma: Plants](https://www.figma.com/file/ntVt8IwlwzfVFMBuVVAze8/Plants?node-id=0%3A1&t=Pr55BfwanuOYrYxn-0)
 
+Работа по данному макету опубликована:
+[верстка](https://phcode.site/p/p-34964bf6795/dist/index.html)
+
 ## Требования к структуре макета:
 
 ### Макет состоит из трёх основных блоков: <header>, <main>, <footer>
